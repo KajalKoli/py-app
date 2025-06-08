@@ -5,7 +5,7 @@ This project demonstrates how to use Docker to containerize a simple Python appl
 
 ## demo
 ![output](imgs/output.png)
-![output](imgs/out.png)
+![output](imgs/docker-out.png)
 
 ## Project Structure
 
